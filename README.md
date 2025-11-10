@@ -1,8 +1,11 @@
 # Team: SLAY QWEENS
 
 Matthew Xu - CS
+
 Adrienne Salkey - CS
+
 Esther Yang - ART
+
 Tiffany Pham - ART
 
 # DUCKS IN A ROW
