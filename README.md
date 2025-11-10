@@ -16,8 +16,11 @@ losing them to the DUCK EATER!
 
 # Movement:
 WASD keys for up, down, left, and right. 
+
 left shift - sprint,
+
 f - drop ducklings
+
 Touch the ducks in order to get them to follow you. 
 Drop them off at the pond to keep them safe while you
 collect the others. 
